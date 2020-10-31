@@ -9,7 +9,7 @@ Therefore, we were given a .csv file with several climate parameters(wind speed,
 
 # Aims
 
-Predict pollution level on day "t" using all the datas we have until day "t-1". We used a FFNN, Simple RNN and a LSTM and compared the Mean Absolute Error(MAE) and how they perform in predicting the pollution level. 
+The target was to predict pollution level on day "t" using all the data we have until day "t-1". We used a FFNN, Simple RNN and a LSTM and compared the Mean Absolute Error(MAE) and how they perform in predicting the pollution level. 
 
 All the code and comments are done in the notebook in English
  
